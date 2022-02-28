@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @adamkb33
-- 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning Python, Django, React and Javascript.
-- 
-
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1] <br/>Or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1] <br/>Or on [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
