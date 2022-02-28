@@ -16,5 +16,4 @@
   <li>Software development</li>
   <li>Project management</li>
   <li>Mathematics</li>
-
  </ul>
