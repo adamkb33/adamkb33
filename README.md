@@ -10,3 +10,10 @@
   <li>Django Ecommere Website, fully intergrated with paypal</li>
   <li>Java projects for object oriented learning</li>
  </ul>
+<h4>My fields of expertise include</h4>
+  <ul>
+  <li>Information management</li>
+  <li>Software development</li>
+  <li>Mathematics</li>
+
+ </ul>
