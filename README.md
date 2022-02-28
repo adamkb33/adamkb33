@@ -5,3 +5,7 @@
 <br/>
 <hr/>
 <h4>Welcome to my Github page<h4/>
+<p>Here you will find the projects i have personally worked on.</p>
+<ul>
+  <li>Django Ecommere Website, fully intergrated with paypal</li>
+  </ul>
