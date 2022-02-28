@@ -8,4 +8,5 @@
 <p>Here you will find the projects i have personally worked on.</p>
 <ul>
   <li>Django Ecommere Website, fully intergrated with paypal</li>
-  </ul>
+  <li>Java projects for functional learning</li>
+ </ul>
