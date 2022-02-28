@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @adamkb33
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning Python, Django, React and Javascript.
+- 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
